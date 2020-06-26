@@ -10,7 +10,7 @@
     ],
     "favorites":[
         {
-            "name":"RPA Challenge.url",
+            "name":"Challenge RPA.url",
             "path":"%ALLUSERSPROFILE%\\Desktop",
             "url":"http://rpachallenge.com"
         },
@@ -22,7 +22,7 @@
         {
             "name":"AcademyLive Feedback.url",
             "path":"%ALLUSERSPROFILE%\\Desktop",
-            "url":"https://forms.office.com/Pages/DesignPage.aspx?fragment=FormId%3DKj012FOxF02IJ5AsUfcjVxrzeHe7g1ZAhTO5hrGUThZUMUVDRFhCSDVKVjc3RllJVlhHVENIRUpQTS4u%26Token%3Db3a15c47398d48ad972b9f6a2a6c3ce8"
+            "url":"https://forms.office.com/Pages/ResponsePage.aspx?id=Kj012FOxF02IJ5AsUfcjVxrzeHe7g1ZAhTO5hrGUThZUMUVDRFhCSDVKVjc3RllJVlhHVENIRUpQTS4u"
         }
     ],
     "shortcuts":[
