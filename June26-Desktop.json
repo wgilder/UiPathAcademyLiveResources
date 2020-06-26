@@ -1,13 +1,6 @@
 {
     "downloads":[
         {
-            "name":"DoubleUi.exe",
-            "path":"",
-            "url":"https://github.com/jvavasseur/UiPathAcademyRessources/raw/master/Downloads/DoubleUI.exe",
-            "replace":true,
-            "extract":false
-        },
-        {
             "name":"wallpaper.png",
             "path":"",
             "url":"https://github.com/jvavasseur/UiPathAcademyRessources/raw/master/Downloads/UiPathAcademyLiveFond Ecran.png",
@@ -17,16 +10,21 @@
     ],
     "favorites":[
         {
-            "name":"Challenge RPA.url",
+            "name":"RPA Challenge.url",
             "path":"%ALLUSERSPROFILE%\\Desktop",
             "url":"http://rpachallenge.com"
+        },
+        {
+            "name":"Data Scraping.url",
+            "path":"%ALLUSERSPROFILE%\\Desktop",
+            "url":"https://rpainfo.devhed.com/"
+        },
+        {
+            "name":"AcademyLive Feedback.url",
+            "path":"%ALLUSERSPROFILE%\\Desktop",
+            "url":"https://forms.office.com/Pages/DesignPage.aspx?fragment=FormId%3DKj012FOxF02IJ5AsUfcjVxrzeHe7g1ZAhTO5hrGUThZUMUVDRFhCSDVKVjc3RllJVlhHVENIRUpQTS4u%26Token%3Db3a15c47398d48ad972b9f6a2a6c3ce8"
         }
     ],
     "shortcuts":[
-        {
-            "name":"Start DoubleUi.lnk",
-            "path":"%ALLUSERSPROFILE%\\Desktop",
-            "target":"%PROGRAMDATA%\\UiPath\\Academy\\Downloads\\DoubleUi.exe"
-        }
     ]
 }
