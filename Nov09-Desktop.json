@@ -1,0 +1,30 @@
+{
+    "downloads":[
+        {
+            "name":"wallpaper.png",
+            "path":"",
+            "url":"https://github.com/jvavasseur/UiPathAcademyRessources/raw/master/Downloads/UiPathAcademyLiveFond Ecran.png",
+            "replace":true,
+            "extract":false
+        }
+    ],
+    "favorites":[
+        {
+            "name":"Challenge RPA.url",
+            "path":"%ALLUSERSPROFILE%\\Desktop",
+            "url":"http://rpachallenge.com"
+        },
+        {
+            "name":"Data Scraping.url",
+            "path":"%ALLUSERSPROFILE%\\Desktop",
+            "url":"https://rpainfo.devhed.com/"
+        },
+        {
+            "name":"AcademyLive Feedback.url",
+            "path":"%ALLUSERSPROFILE%\\Desktop",
+            "url":"hhttps://forms.office.com/Pages/ResponsePage.aspx?id=Kj012FOxF02IJ5AsUfcjVyzTbgAR2tFHv7nsl8Zx4SZUMEZBUzU4VkxYUlo2VlFMTTA1U0QxRFkwNC4u"
+        }
+    ],
+    "shortcuts":[
+    ]
+}
